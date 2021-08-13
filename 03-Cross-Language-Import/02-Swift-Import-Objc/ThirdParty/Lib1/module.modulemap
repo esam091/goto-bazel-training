@@ -1,0 +1,4 @@
+module Lib1 {
+    umbrella header "Lib1.h"
+    export *
+}
