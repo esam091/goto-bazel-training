@@ -1,0 +1,4 @@
+module MyModule {
+    umbrella header "ObjcClass.h"
+    export *
+}
