@@ -1,8 +1,7 @@
-#import <AnimalKit/AnimalKit.h>
+#import <BeverageKit/BeverageKit.h>
 
 int main() {
-    [Cat speak];
-    [Dog speak];
-    [Horse speak];
+    [Chai drink];
+    [Coffee drink];
     return 0;
 }
